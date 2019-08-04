@@ -1,2 +1,2 @@
 # werdpress
-An installation of WP 4.9.10 for experimentation
+foo An installation of WP 4.9.10 for experimentation
